@@ -1,1 +1,3 @@
-# issue-tracker
+# Issue Tracker
+Followed along with the project on [CodingTheSmartWay](https://codingthesmartway.com/pure-javascript-building-a-real-world-application-from-scratch/) using HTML, CSS/Bootstrap, and JavaScript.
+Simulates an issue tracker application that allows user to input the description and severity of the issue as well as who it is assigned to using an input form. Issues are stored in the browser's local storage, and the list of existing issues is printed out in the bottom area. Each issue is attached with a unique id number and an assigned status. By default the issue starts as "Open", and once the issue is resolved the user can change the status to "Closed". The issue can also be deleted from the list and local storage using the "Delete" button.
